@@ -15,9 +15,4 @@ Excel, SQL, Power BI
 - West region sales dropped by 18%
 - High discounts reducing profit
 
-## Recommendations
-- Reduce discount strategy
-- Focus on high-profit products
 
-## Dashboard Preview
-(Add screenshot)
