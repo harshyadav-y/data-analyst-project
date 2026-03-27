@@ -1,18 +1,23 @@
-## 📊 Data Analytics Portfolio
+# 📊 Sales Analysis Project
 
-This repository contains my data analytics projects using **Excel, SQL, and Power BI**. Each project focuses on extracting insights, building dashboards, and solving real-world business problems.
+## Problem Statement
+Analyze declining sales in different regions.
 
-### 📁 Projects
-- 📊 Superstore Sales Dashboard (Excel)
-- 📱 Mobile Manufacturer Analysis (SQL)
-- 📊 Adventure Data Analysis (Power BI)
+## Tools Used
+Excel, SQL, Power BI
 
-### 🛠️ Skills Demonstrated
-- Data Cleaning & Transformation
-- Data Visualization
-- SQL Querying
-- Dashboard Design
-- Business Insights Generation
+## Steps
+- Data cleaning
+- SQL analysis
+- Dashboard creation
 
-### 🎯 Goal
-To leverage data analytics tools to uncover insights and support decision-making.
+## Key Insights
+- West region sales dropped by 18%
+- High discounts reducing profit
+
+## Recommendations
+- Reduce discount strategy
+- Focus on high-profit products
+
+## Dashboard Preview
+(Add screenshot)
